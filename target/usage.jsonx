@@ -1,0 +1,704 @@
+[
+  {
+    "source": "^user enter email$",
+    "steps": [
+      {
+        "name": "user enter email",
+        "aggregatedDurations": {
+          "average": 2.1036578,
+          "median": 2.1036578
+        },
+        "durations": [
+          {
+            "duration": 2.1036578,
+            "location": "src/test/java/Features/ContactUs.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on design services page$",
+    "steps": [
+      {
+        "name": "user is already on design services page",
+        "aggregatedDurations": {
+          "average": 4.086316,
+          "median": 4.086316
+        },
+        "durations": [
+          {
+            "duration": 4.086316,
+            "location": "src/test/java/Features/DesignServicesForm.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name on rs form$",
+    "steps": [
+      {
+        "name": "user enter name on rs form",
+        "aggregatedDurations": {
+          "average": 2.1124407,
+          "median": 2.1124407
+        },
+        "durations": [
+          {
+            "duration": 2.1124407,
+            "location": "src/test/java/Features/ResearchServices.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click on submit button on rs form$",
+    "steps": [
+      {
+        "name": "user click on submit button on rs form",
+        "aggregatedDurations": {
+          "average": 12.0551183,
+          "median": 12.0551183
+        },
+        "durations": [
+          {
+            "duration": 12.0551183,
+            "location": "src/test/java/Features/ResearchServices.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter email on blog form$",
+    "steps": [
+      {
+        "name": "user enter email on blog form",
+        "aggregatedDurations": {
+          "average": 2.1726353,
+          "median": 2.1726353
+        },
+        "durations": [
+          {
+            "duration": 2.1726353,
+            "location": "src/test/java/Features/BlogComment.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on blog form$",
+    "steps": [
+      {
+        "name": "user is already on blog form",
+        "aggregatedDurations": {
+          "average": 18.787083,
+          "median": 18.787083
+        },
+        "durations": [
+          {
+            "duration": 18.787083,
+            "location": "src/test/java/Features/BlogComment.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter message on gs form$",
+    "steps": [
+      {
+        "name": "user enter message on gs form",
+        "aggregatedDurations": {
+          "average": 2.559107,
+          "median": 2.559107
+        },
+        "durations": [
+          {
+            "duration": 2.559107,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter mobile number$",
+    "steps": [
+      {
+        "name": "user enter mobile number",
+        "aggregatedDurations": {
+          "average": 2.1070988,
+          "median": 2.1070988
+        },
+        "durations": [
+          {
+            "duration": 2.1070988,
+            "location": "src/test/java/Features/ContactUs.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter captcha comment$",
+    "steps": [
+      {
+        "name": "user enter captcha comment",
+        "aggregatedDurations": {
+          "average": 4.086954,
+          "median": 4.086954
+        },
+        "durations": [
+          {
+            "duration": 4.086954,
+            "location": "src/test/java/Features/ContactUs.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on contact us to get started form$",
+    "steps": [
+      {
+        "name": "user is already on contact us to get started form",
+        "aggregatedDurations": {
+          "average": 3.9019309,
+          "median": 3.9019309
+        },
+        "durations": [
+          {
+            "duration": 3.9019309,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter phone number on gs form$",
+    "steps": [
+      {
+        "name": "user enter phone number on gs form",
+        "aggregatedDurations": {
+          "average": 2.0750446,
+          "median": 2.0750446
+        },
+        "durations": [
+          {
+            "duration": 2.0750446,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter comment on blog form$",
+    "steps": [
+      {
+        "name": "user enter comment on blog form",
+        "aggregatedDurations": {
+          "average": 2.7150144,
+          "median": 2.7150144
+        },
+        "durations": [
+          {
+            "duration": 2.7150144,
+            "location": "src/test/java/Features/BlogComment.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name$",
+    "steps": [
+      {
+        "name": "user enter name",
+        "aggregatedDurations": {
+          "average": 2.099182,
+          "median": 2.099182
+        },
+        "durations": [
+          {
+            "duration": 2.099182,
+            "location": "src/test/java/Features/ContactUs.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter email on design services form$",
+    "steps": [
+      {
+        "name": "user enter email on design services form",
+        "aggregatedDurations": {
+          "average": 2.1051761,
+          "median": 2.1051761
+        },
+        "durations": [
+          {
+            "duration": 2.1051761,
+            "location": "src/test/java/Features/DesignServicesForm.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click on submit button$",
+    "steps": [
+      {
+        "name": "user click on submit button",
+        "aggregatedDurations": {
+          "average": 3.8342239,
+          "median": 3.8342239
+        },
+        "durations": [
+          {
+            "duration": 3.8342239,
+            "location": "src/test/java/Features/ContactUs.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter mobile number on rs form$",
+    "steps": [
+      {
+        "name": "user enter mobile number on rs form",
+        "aggregatedDurations": {
+          "average": 2.1264313,
+          "median": 2.1264313
+        },
+        "durations": [
+          {
+            "duration": 2.1264313,
+            "location": "src/test/java/Features/ResearchServices.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter number of slides on questionnaire form$",
+    "steps": [
+      {
+        "name": "user enter number of slides on questionnaire form",
+        "aggregatedDurations": {
+          "average": 2.0354265,
+          "median": 2.0354265
+        },
+        "durations": [
+          {
+            "duration": 2.0354265,
+            "location": "src/test/java/Features/Questionnaire.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user submit the design services form$",
+    "steps": [
+      {
+        "name": "user submit the design services form",
+        "aggregatedDurations": {
+          "average": 8.4083486,
+          "median": 8.4083486
+        },
+        "durations": [
+          {
+            "duration": 8.4083486,
+            "location": "src/test/java/Features/DesignServicesForm.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter comment on rs form$",
+    "steps": [
+      {
+        "name": "user enter comment on rs form",
+        "aggregatedDurations": {
+          "average": 2.5916152,
+          "median": 2.5916152
+        },
+        "durations": [
+          {
+            "duration": 2.5916152,
+            "location": "src/test/java/Features/ResearchServices.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name on design services form$",
+    "steps": [
+      {
+        "name": "user enter name on design services form",
+        "aggregatedDurations": {
+          "average": 2.1520595,
+          "median": 2.1520595
+        },
+        "durations": [
+          {
+            "duration": 2.1520595,
+            "location": "src/test/java/Features/DesignServicesForm.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user attach a file on design services form$",
+    "steps": [
+      {
+        "name": "user attach a file on design services form",
+        "aggregatedDurations": {
+          "average": 1.00134,
+          "median": 1.00134
+        },
+        "durations": [
+          {
+            "duration": 1.00134,
+            "location": "src/test/java/Features/DesignServicesForm.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on contact us form$",
+    "steps": [
+      {
+        "name": "user is already on contact us form",
+        "aggregatedDurations": {
+          "average": 6.7715952,
+          "median": 6.7715952
+        },
+        "durations": [
+          {
+            "duration": 6.7715952,
+            "location": "src/test/java/Features/ContactUs.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter comment$",
+    "steps": [
+      {
+        "name": "user enter comment",
+        "aggregatedDurations": {
+          "average": 3.468775,
+          "median": 3.468775
+        },
+        "durations": [
+          {
+            "duration": 3.468775,
+            "location": "src/test/java/Features/ContactUs.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter phone on questionnaire form$",
+    "steps": [
+      {
+        "name": "user enter phone on questionnaire form",
+        "aggregatedDurations": {
+          "average": 2.0743318,
+          "median": 2.0743318
+        },
+        "durations": [
+          {
+            "duration": 2.0743318,
+            "location": "src/test/java/Features/Questionnaire.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter captcha on rs form$",
+    "steps": [
+      {
+        "name": "user enter captcha on rs form",
+        "aggregatedDurations": {
+          "average": 2.0577023,
+          "median": 2.0577023
+        },
+        "durations": [
+          {
+            "duration": 2.0577023,
+            "location": "src/test/java/Features/ResearchServices.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name on questionnaire form$",
+    "steps": [
+      {
+        "name": "user enter name on questionnaire form",
+        "aggregatedDurations": {
+          "average": 2.1516243,
+          "median": 2.1516243
+        },
+        "durations": [
+          {
+            "duration": 2.1516243,
+            "location": "src/test/java/Features/Questionnaire.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click on submit button on gs form$",
+    "steps": [
+      {
+        "name": "user click on submit button on gs form",
+        "aggregatedDurations": {
+          "average": 3.3905486,
+          "median": 3.3905486
+        },
+        "durations": [
+          {
+            "duration": 3.3905486,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on Submit Your Business Research Requirements form$",
+    "steps": [
+      {
+        "name": "user is already on Submit Your Business Research Requirements form",
+        "aggregatedDurations": {
+          "average": 8.3725028,
+          "median": 8.3725028
+        },
+        "durations": [
+          {
+            "duration": 8.3725028,
+            "location": "src/test/java/Features/ResearchServices.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name on gs form$",
+    "steps": [
+      {
+        "name": "user enter name on gs form",
+        "aggregatedDurations": {
+          "average": 2.1187506,
+          "median": 2.1187506
+        },
+        "durations": [
+          {
+            "duration": 2.1187506,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click on Submit button on blog form$",
+    "steps": [
+      {
+        "name": "user click on Submit button on blog form",
+        "aggregatedDurations": {
+          "average": 5.0933807,
+          "median": 5.0933807
+        },
+        "durations": [
+          {
+            "duration": 5.0933807,
+            "location": "src/test/java/Features/BlogComment.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter email on questionnaire form$",
+    "steps": [
+      {
+        "name": "user enter email on questionnaire form",
+        "aggregatedDurations": {
+          "average": 2.1225024,
+          "median": 2.1225024
+        },
+        "durations": [
+          {
+            "duration": 2.1225024,
+            "location": "src/test/java/Features/Questionnaire.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter project description on design services form$",
+    "steps": [
+      {
+        "name": "user enter project description on design services form",
+        "aggregatedDurations": {
+          "average": 2.4887907,
+          "median": 2.4887907
+        },
+        "durations": [
+          {
+            "duration": 2.4887907,
+            "location": "src/test/java/Features/DesignServicesForm.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter captcha on blog form$",
+    "steps": [
+      {
+        "name": "user enter captcha on blog form",
+        "aggregatedDurations": {
+          "average": 5.1080944,
+          "median": 5.1080944
+        },
+        "durations": [
+          {
+            "duration": 5.1080944,
+            "location": "src/test/java/Features/BlogComment.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on questionnaire form page$",
+    "steps": [
+      {
+        "name": "user is already on questionnaire form page",
+        "aggregatedDurations": {
+          "average": 3.073007,
+          "median": 3.073007
+        },
+        "durations": [
+          {
+            "duration": 3.073007,
+            "location": "src/test/java/Features/Questionnaire.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click on submit on questionnaire form$",
+    "steps": [
+      {
+        "name": "user click on submit on questionnaire form",
+        "aggregatedDurations": {
+          "average": 3.4900624,
+          "median": 3.4900624
+        },
+        "durations": [
+          {
+            "duration": 3.4900624,
+            "location": "src/test/java/Features/Questionnaire.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter  Style Requirement on questionnaire form$",
+    "steps": [
+      {
+        "name": "user enter  Style Requirement on questionnaire form",
+        "aggregatedDurations": {
+          "average": 2.4601308,
+          "median": 2.4601308
+        },
+        "durations": [
+          {
+            "duration": 2.4601308,
+            "location": "src/test/java/Features/Questionnaire.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter email on rs form$",
+    "steps": [
+      {
+        "name": "user enter email on rs form",
+        "aggregatedDurations": {
+          "average": 2.1044684,
+          "median": 2.1044684
+        },
+        "durations": [
+          {
+            "duration": 2.1044684,
+            "location": "src/test/java/Features/ResearchServices.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter name on blog form$",
+    "steps": [
+      {
+        "name": "user enter name on blog form",
+        "aggregatedDurations": {
+          "average": 2.1598384,
+          "median": 2.1598384
+        },
+        "durations": [
+          {
+            "duration": 2.1598384,
+            "location": "src/test/java/Features/BlogComment.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user enter email on gs form$",
+    "steps": [
+      {
+        "name": "user enter email on gs form",
+        "aggregatedDurations": {
+          "average": 2.1179021,
+          "median": 2.1179021
+        },
+        "durations": [
+          {
+            "duration": 2.1179021,
+            "location": "src/test/java/Features/ContactUsToGetStarted.feature:5"
+          }
+        ]
+      }
+    ]
+  }
+]
